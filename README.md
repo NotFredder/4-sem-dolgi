@@ -11,15 +11,18 @@
 ## Долги в 303 кабинете:
  #### Конкурсы:
  - [ ] [Конкурсы](https://drive.google.com/drive/u/2/folders/1I07I8dQoROk5lhioMBhvssZ_CDzsY89K)
+ #### Задача:
+ - [ ] [Задача 1]()
  #### Функции:
  - [ ] [Функция 1]()
-   - [ ] [сдача и диаграмма](https://drive.google.com/drive/folders/1mv4mylqbMM9RZOtQNHmvhhnoopQxUGvD?usp=drive_link)
  - [ ] [Функция 2]()
-   - [ ] [сдача и диаграмма](https://drive.google.com/drive/folders/14tE30dnrF5pGh0pkwy3uMu3RGq4fxO_M?usp=drive_link)
  - [ ] [Функция 3]()
-   - [ ] [сдача и диаграмма](https://drive.google.com/drive/folders/1kYjX-mZ-Rnp_fmJ3RJnJt92F5wKIVGhm?usp=drive_link)
+ - [ ] [Функция 4]()
   #### ООП:
- 
+ - [ ] [ООП 1]()
+ - [ ] [ООП 2]()
+ - [ ] [ООП 3]()
+ - [ ] [ООП 4]()
 
 ### Примечание:
  - [x] - задание сдано
